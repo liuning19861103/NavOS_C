@@ -1,0 +1,2 @@
+--create .\Objects\GNSSSolve.lib
+.\objects\gnsssolve.o

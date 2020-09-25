@@ -1,0 +1,2 @@
+--create .\Objects\TransmitData.lib
+.\objects\transmitdata.o
